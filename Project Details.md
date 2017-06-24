@@ -1,5 +1,5 @@
 # Project
-A description of the project I will be doing in summer 2017 at Wolfram.
+A description of the project I will be doing in summer 2017 under Wolfram Research.
 
 ## Semantic Segmentation of Urban Street Scenes ##
 
