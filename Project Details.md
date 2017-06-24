@@ -1,9 +1,7 @@
 Project
 ----------
-----------
-----------
 Semantic Segmentation of Urban Street Scenes
--------------
+
 > **Motivation:**
 > - The problem of scene understanding is a difficult one.
 > - Despite this complexity, the ability to correctly analyse the environment is critical for the development of autonomous systems such as self-driving cars.
