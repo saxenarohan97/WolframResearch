@@ -1,6 +1,7 @@
-Project
+# Project
+
+Semantic Segmentation of Urban Street Scenes
 ----------
-# Semantic Segmentation of Urban Street Scenes
 
 > **Motivation:**
 > - The problem of scene understanding is a difficult one.
